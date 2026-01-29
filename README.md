@@ -19,9 +19,8 @@
 [//]: # (Assignment description)
   <p align="center"> 
     ──── .✦ ⚗️ ✦. ──── <br><br>
-    This lab was for DIG4714 (Intermediate Game Development) <br> and it was a practice in solving mathematical word problems <br> within Unity using the Inspector. <br>
-    In this assignment, Unity was used as a calculator using Debug.Log, void Start(), and Play Mode. <br><br>
-  <p align="center"> 
+    This lab was for DIG4714 (Intermediate Game Development) <br> and it was a practice in solving mathematical word problems <br> within Unity using the Inspector. <br><br>
+    In this assignment, Unity was used as a calculator using Debug.Log, <br> the Start() method, and Play Mode. <br><br>
     ──── .✦ ⚗️ ✦. ──── <br><br>
   </p>
 
